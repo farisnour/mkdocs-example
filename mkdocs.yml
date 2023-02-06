@@ -1,0 +1,8 @@
+site_name: MkLorem
+site_url: https://example.com
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+  name: material
+  language: "en"
